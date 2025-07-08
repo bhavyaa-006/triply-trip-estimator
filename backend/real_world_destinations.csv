@@ -1,0 +1,1001 @@
+id,city_name,average_hotel_cost_per_night_usd,average_food_cost_per_day_usd
+1,New York #1,178,40
+2,London #1,94,24
+3,Paris #1,207,25
+4,Tokyo #1,228,43
+5,Dubai #1,280,75
+6,Singapore #1,61,37
+7,Los Angeles #1,233,41
+8,Rome #1,142,99
+9,Bangkok #1,174,85
+10,Barcelona #1,281,92
+11,Istanbul #1,71,68
+12,Amsterdam #1,194,43
+13,Berlin #1,163,84
+14,Sydney #1,125,84
+15,Hong Kong #1,82,66
+16,Toronto #1,285,85
+17,San Francisco #1,63,87
+18,Las Vegas #1,235,58
+19,Chicago #1,163,95
+20,Madrid #1,213,40
+21,Vienna #1,172,64
+22,Seoul #1,80,59
+23,Prague #1,209,37
+24,Milan #1,146,74
+25,Dublin #1,221,35
+26,Munich #1,263,35
+27,Copenhagen #1,84,65
+28,Brussels #1,209,96
+29,Lisbon #1,67,57
+30,Buenos Aires #1,175,68
+31,Cape Town #1,287,51
+32,Moscow #1,72,70
+33,Warsaw #1,254,68
+34,Athens #1,246,87
+35,Stockholm #1,147,66
+36,Zurich #1,184,36
+37,Budapest #1,298,41
+38,Jakarta #1,211,41
+39,Doha #1,210,30
+40,Kuala Lumpur #1,229,75
+41,Rio de Janeiro #1,236,87
+42,Mexico City #1,59,26
+43,Vancouver #1,258,33
+44,Beijing #1,179,41
+45,Shanghai #1,205,39
+46,Osaka #1,70,79
+47,Manila #1,147,56
+48,Tel Aviv #1,64,47
+49,Edinburgh #1,179,46
+50,Helsinki #1,197,47
+51,New York #2,229,21
+52,London #2,195,34
+53,Paris #2,283,49
+54,Tokyo #2,235,48
+55,Dubai #2,217,88
+56,Singapore #2,234,91
+57,Los Angeles #2,177,43
+58,Rome #2,96,30
+59,Bangkok #2,234,87
+60,Barcelona #2,181,68
+61,Istanbul #2,102,55
+62,Amsterdam #2,284,97
+63,Berlin #2,230,68
+64,Sydney #2,169,68
+65,Hong Kong #2,185,92
+66,Toronto #2,277,82
+67,San Francisco #2,190,59
+68,Las Vegas #2,299,54
+69,Chicago #2,61,53
+70,Madrid #2,116,96
+71,Vienna #2,134,26
+72,Seoul #2,262,66
+73,Prague #2,176,48
+74,Milan #2,79,89
+75,Dublin #2,165,23
+76,Munich #2,109,82
+77,Copenhagen #2,282,29
+78,Brussels #2,76,53
+79,Lisbon #2,69,44
+80,Buenos Aires #2,171,85
+81,Cape Town #2,65,96
+82,Moscow #2,165,88
+83,Warsaw #2,136,27
+84,Athens #2,74,56
+85,Stockholm #2,166,88
+86,Zurich #2,187,45
+87,Budapest #2,156,38
+88,Jakarta #2,195,34
+89,Doha #2,134,98
+90,Kuala Lumpur #2,105,48
+91,Rio de Janeiro #2,161,94
+92,Mexico City #2,237,100
+93,Vancouver #2,203,81
+94,Beijing #2,296,76
+95,Shanghai #2,195,74
+96,Osaka #2,196,30
+97,Manila #2,190,33
+98,Tel Aviv #2,100,27
+99,Edinburgh #2,260,91
+100,Helsinki #2,88,65
+101,New York #3,156,97
+102,London #3,135,37
+103,Paris #3,108,71
+104,Tokyo #3,215,74
+105,Dubai #3,64,78
+106,Singapore #3,68,70
+107,Los Angeles #3,273,23
+108,Rome #3,124,78
+109,Bangkok #3,224,92
+110,Barcelona #3,179,72
+111,Istanbul #3,52,58
+112,Amsterdam #3,145,24
+113,Berlin #3,219,51
+114,Sydney #3,94,96
+115,Hong Kong #3,63,63
+116,Toronto #3,124,95
+117,San Francisco #3,220,88
+118,Las Vegas #3,197,85
+119,Chicago #3,216,31
+120,Madrid #3,124,86
+121,Vienna #3,164,89
+122,Seoul #3,166,53
+123,Prague #3,81,43
+124,Milan #3,293,27
+125,Dublin #3,70,68
+126,Munich #3,256,21
+127,Copenhagen #3,264,25
+128,Brussels #3,144,42
+129,Lisbon #3,172,20
+130,Buenos Aires #3,291,76
+131,Cape Town #3,159,33
+132,Moscow #3,55,43
+133,Warsaw #3,198,60
+134,Athens #3,152,65
+135,Stockholm #3,105,27
+136,Zurich #3,150,59
+137,Budapest #3,117,47
+138,Jakarta #3,135,76
+139,Doha #3,235,56
+140,Kuala Lumpur #3,175,55
+141,Rio de Janeiro #3,182,25
+142,Mexico City #3,115,85
+143,Vancouver #3,159,36
+144,Beijing #3,181,32
+145,Shanghai #3,273,88
+146,Osaka #3,263,89
+147,Manila #3,129,59
+148,Tel Aviv #3,58,46
+149,Edinburgh #3,109,49
+150,Helsinki #3,297,75
+151,New York #4,124,24
+152,London #4,292,87
+153,Paris #4,91,63
+154,Tokyo #4,229,34
+155,Dubai #4,135,64
+156,Singapore #4,269,33
+157,Los Angeles #4,251,29
+158,Rome #4,182,48
+159,Bangkok #4,200,54
+160,Barcelona #4,229,26
+161,Istanbul #4,300,90
+162,Amsterdam #4,284,70
+163,Berlin #4,112,64
+164,Sydney #4,93,67
+165,Hong Kong #4,163,88
+166,Toronto #4,239,31
+167,San Francisco #4,258,32
+168,Las Vegas #4,179,73
+169,Chicago #4,262,53
+170,Madrid #4,200,56
+171,Vienna #4,102,88
+172,Seoul #4,120,26
+173,Prague #4,135,83
+174,Milan #4,141,26
+175,Dublin #4,240,24
+176,Munich #4,61,39
+177,Copenhagen #4,124,75
+178,Brussels #4,205,62
+179,Lisbon #4,97,86
+180,Buenos Aires #4,84,51
+181,Cape Town #4,209,72
+182,Moscow #4,235,42
+183,Warsaw #4,65,43
+184,Athens #4,86,64
+185,Stockholm #4,275,35
+186,Zurich #4,146,23
+187,Budapest #4,166,77
+188,Jakarta #4,212,99
+189,Doha #4,298,55
+190,Kuala Lumpur #4,110,82
+191,Rio de Janeiro #4,93,100
+192,Mexico City #4,221,81
+193,Vancouver #4,181,99
+194,Beijing #4,140,44
+195,Shanghai #4,154,42
+196,Osaka #4,97,39
+197,Manila #4,108,76
+198,Tel Aviv #4,274,97
+199,Edinburgh #4,175,67
+200,Helsinki #4,274,83
+201,New York #5,207,83
+202,London #5,299,67
+203,Paris #5,277,36
+204,Tokyo #5,88,74
+205,Dubai #5,97,22
+206,Singapore #5,65,91
+207,Los Angeles #5,264,23
+208,Rome #5,140,55
+209,Bangkok #5,124,30
+210,Barcelona #5,234,52
+211,Istanbul #5,248,33
+212,Amsterdam #5,166,22
+213,Berlin #5,233,38
+214,Sydney #5,142,35
+215,Hong Kong #5,272,94
+216,Toronto #5,103,75
+217,San Francisco #5,64,72
+218,Las Vegas #5,156,41
+219,Chicago #5,126,72
+220,Madrid #5,116,57
+221,Vienna #5,279,76
+222,Seoul #5,240,82
+223,Prague #5,54,78
+224,Milan #5,191,39
+225,Dublin #5,276,37
+226,Munich #5,208,49
+227,Copenhagen #5,81,34
+228,Brussels #5,132,20
+229,Lisbon #5,294,49
+230,Buenos Aires #5,267,46
+231,Cape Town #5,240,55
+232,Moscow #5,140,86
+233,Warsaw #5,72,99
+234,Athens #5,220,38
+235,Stockholm #5,199,92
+236,Zurich #5,200,82
+237,Budapest #5,255,59
+238,Jakarta #5,293,47
+239,Doha #5,79,69
+240,Kuala Lumpur #5,208,92
+241,Rio de Janeiro #5,215,54
+242,Mexico City #5,95,72
+243,Vancouver #5,216,64
+244,Beijing #5,138,21
+245,Shanghai #5,192,68
+246,Osaka #5,266,59
+247,Manila #5,82,81
+248,Tel Aviv #5,233,77
+249,Edinburgh #5,203,62
+250,Helsinki #5,256,44
+251,New York #6,53,76
+252,London #6,103,24
+253,Paris #6,232,96
+254,Tokyo #6,160,22
+255,Dubai #6,206,57
+256,Singapore #6,148,48
+257,Los Angeles #6,225,57
+258,Rome #6,119,68
+259,Bangkok #6,99,49
+260,Barcelona #6,76,46
+261,Istanbul #6,86,67
+262,Amsterdam #6,92,93
+263,Berlin #6,281,32
+264,Sydney #6,78,25
+265,Hong Kong #6,150,43
+266,Toronto #6,293,68
+267,San Francisco #6,91,56
+268,Las Vegas #6,296,91
+269,Chicago #6,244,44
+270,Madrid #6,132,98
+271,Vienna #6,128,78
+272,Seoul #6,137,51
+273,Prague #6,163,32
+274,Milan #6,112,52
+275,Dublin #6,192,47
+276,Munich #6,81,72
+277,Copenhagen #6,144,33
+278,Brussels #6,298,62
+279,Lisbon #6,187,97
+280,Buenos Aires #6,78,91
+281,Cape Town #6,291,84
+282,Moscow #6,278,58
+283,Warsaw #6,280,92
+284,Athens #6,229,23
+285,Stockholm #6,92,65
+286,Zurich #6,118,51
+287,Budapest #6,203,48
+288,Jakarta #6,76,34
+289,Doha #6,168,36
+290,Kuala Lumpur #6,282,69
+291,Rio de Janeiro #6,289,85
+292,Mexico City #6,265,55
+293,Vancouver #6,219,21
+294,Beijing #6,206,62
+295,Shanghai #6,275,82
+296,Osaka #6,83,48
+297,Manila #6,115,61
+298,Tel Aviv #6,227,99
+299,Edinburgh #6,280,66
+300,Helsinki #6,100,88
+301,New York #7,261,28
+302,London #7,194,79
+303,Paris #7,163,39
+304,Tokyo #7,131,69
+305,Dubai #7,89,29
+306,Singapore #7,112,94
+307,Los Angeles #7,284,61
+308,Rome #7,259,37
+309,Bangkok #7,113,45
+310,Barcelona #7,273,91
+311,Istanbul #7,124,96
+312,Amsterdam #7,173,97
+313,Berlin #7,196,38
+314,Sydney #7,159,58
+315,Hong Kong #7,282,81
+316,Toronto #7,255,56
+317,San Francisco #7,227,70
+318,Las Vegas #7,136,42
+319,Chicago #7,209,45
+320,Madrid #7,147,83
+321,Vienna #7,233,31
+322,Seoul #7,117,71
+323,Prague #7,139,51
+324,Milan #7,267,38
+325,Dublin #7,215,34
+326,Munich #7,62,30
+327,Copenhagen #7,127,34
+328,Brussels #7,105,28
+329,Lisbon #7,296,39
+330,Buenos Aires #7,229,33
+331,Cape Town #7,50,22
+332,Moscow #7,76,43
+333,Warsaw #7,97,98
+334,Athens #7,281,22
+335,Stockholm #7,155,63
+336,Zurich #7,246,56
+337,Budapest #7,80,45
+338,Jakarta #7,247,59
+339,Doha #7,105,47
+340,Kuala Lumpur #7,100,27
+341,Rio de Janeiro #7,70,29
+342,Mexico City #7,106,77
+343,Vancouver #7,272,22
+344,Beijing #7,277,38
+345,Shanghai #7,147,40
+346,Osaka #7,96,63
+347,Manila #7,178,69
+348,Tel Aviv #7,264,50
+349,Edinburgh #7,225,74
+350,Helsinki #7,288,34
+351,New York #8,77,90
+352,London #8,219,28
+353,Paris #8,127,75
+354,Tokyo #8,216,48
+355,Dubai #8,195,81
+356,Singapore #8,127,66
+357,Los Angeles #8,288,88
+358,Rome #8,238,68
+359,Bangkok #8,243,64
+360,Barcelona #8,66,36
+361,Istanbul #8,284,73
+362,Amsterdam #8,278,39
+363,Berlin #8,99,21
+364,Sydney #8,275,46
+365,Hong Kong #8,283,62
+366,Toronto #8,107,57
+367,San Francisco #8,156,81
+368,Las Vegas #8,215,84
+369,Chicago #8,248,60
+370,Madrid #8,106,63
+371,Vienna #8,282,97
+372,Seoul #8,195,29
+373,Prague #8,274,35
+374,Milan #8,275,57
+375,Dublin #8,54,23
+376,Munich #8,214,68
+377,Copenhagen #8,67,87
+378,Brussels #8,294,39
+379,Lisbon #8,215,21
+380,Buenos Aires #8,63,79
+381,Cape Town #8,293,80
+382,Moscow #8,166,63
+383,Warsaw #8,114,56
+384,Athens #8,106,63
+385,Stockholm #8,251,38
+386,Zurich #8,180,27
+387,Budapest #8,132,75
+388,Jakarta #8,66,78
+389,Doha #8,57,23
+390,Kuala Lumpur #8,97,71
+391,Rio de Janeiro #8,107,92
+392,Mexico City #8,135,91
+393,Vancouver #8,132,90
+394,Beijing #8,86,70
+395,Shanghai #8,217,67
+396,Osaka #8,178,86
+397,Manila #8,86,98
+398,Tel Aviv #8,149,96
+399,Edinburgh #8,54,43
+400,Helsinki #8,250,63
+401,New York #9,59,34
+402,London #9,248,65
+403,Paris #9,147,26
+404,Tokyo #9,226,30
+405,Dubai #9,52,64
+406,Singapore #9,74,43
+407,Los Angeles #9,80,87
+408,Rome #9,131,82
+409,Bangkok #9,133,53
+410,Barcelona #9,52,30
+411,Istanbul #9,152,46
+412,Amsterdam #9,220,50
+413,Berlin #9,68,46
+414,Sydney #9,246,97
+415,Hong Kong #9,182,39
+416,Toronto #9,51,70
+417,San Francisco #9,277,73
+418,Las Vegas #9,114,93
+419,Chicago #9,182,81
+420,Madrid #9,155,36
+421,Vienna #9,228,35
+422,Seoul #9,183,98
+423,Prague #9,275,44
+424,Milan #9,113,97
+425,Dublin #9,99,48
+426,Munich #9,221,41
+427,Copenhagen #9,282,89
+428,Brussels #9,152,30
+429,Lisbon #9,86,22
+430,Buenos Aires #9,265,54
+431,Cape Town #9,208,65
+432,Moscow #9,267,88
+433,Warsaw #9,148,40
+434,Athens #9,195,56
+435,Stockholm #9,78,33
+436,Zurich #9,250,55
+437,Budapest #9,162,86
+438,Jakarta #9,197,28
+439,Doha #9,51,62
+440,Kuala Lumpur #9,62,45
+441,Rio de Janeiro #9,143,86
+442,Mexico City #9,217,91
+443,Vancouver #9,74,31
+444,Beijing #9,239,51
+445,Shanghai #9,68,52
+446,Osaka #9,252,43
+447,Manila #9,146,74
+448,Tel Aviv #9,104,88
+449,Edinburgh #9,91,28
+450,Helsinki #9,297,56
+451,New York #10,279,86
+452,London #10,300,80
+453,Paris #10,282,62
+454,Tokyo #10,145,39
+455,Dubai #10,268,90
+456,Singapore #10,119,54
+457,Los Angeles #10,97,80
+458,Rome #10,118,83
+459,Bangkok #10,139,56
+460,Barcelona #10,147,67
+461,Istanbul #10,196,29
+462,Amsterdam #10,261,26
+463,Berlin #10,91,94
+464,Sydney #10,233,43
+465,Hong Kong #10,253,40
+466,Toronto #10,65,74
+467,San Francisco #10,260,31
+468,Las Vegas #10,198,65
+469,Chicago #10,187,89
+470,Madrid #10,231,46
+471,Vienna #10,213,84
+472,Seoul #10,148,24
+473,Prague #10,72,47
+474,Milan #10,103,28
+475,Dublin #10,245,77
+476,Munich #10,147,83
+477,Copenhagen #10,127,45
+478,Brussels #10,165,23
+479,Lisbon #10,75,73
+480,Buenos Aires #10,161,71
+481,Cape Town #10,55,52
+482,Moscow #10,257,80
+483,Warsaw #10,92,25
+484,Athens #10,59,65
+485,Stockholm #10,202,69
+486,Zurich #10,75,79
+487,Budapest #10,114,27
+488,Jakarta #10,60,34
+489,Doha #10,177,31
+490,Kuala Lumpur #10,103,96
+491,Rio de Janeiro #10,246,32
+492,Mexico City #10,250,54
+493,Vancouver #10,152,63
+494,Beijing #10,242,47
+495,Shanghai #10,222,84
+496,Osaka #10,196,49
+497,Manila #10,68,62
+498,Tel Aviv #10,206,60
+499,Edinburgh #10,171,79
+500,Helsinki #10,105,81
+501,New York #11,205,50
+502,London #11,90,22
+503,Paris #11,119,99
+504,Tokyo #11,83,68
+505,Dubai #11,202,50
+506,Singapore #11,70,99
+507,Los Angeles #11,253,92
+508,Rome #11,178,97
+509,Bangkok #11,157,62
+510,Barcelona #11,67,54
+511,Istanbul #11,87,83
+512,Amsterdam #11,80,81
+513,Berlin #11,114,89
+514,Sydney #11,107,90
+515,Hong Kong #11,273,44
+516,Toronto #11,80,88
+517,San Francisco #11,124,80
+518,Las Vegas #11,75,83
+519,Chicago #11,107,86
+520,Madrid #11,185,98
+521,Vienna #11,278,31
+522,Seoul #11,59,91
+523,Prague #11,117,35
+524,Milan #11,263,62
+525,Dublin #11,275,21
+526,Munich #11,163,87
+527,Copenhagen #11,193,64
+528,Brussels #11,108,57
+529,Lisbon #11,186,84
+530,Buenos Aires #11,130,20
+531,Cape Town #11,175,57
+532,Moscow #11,201,100
+533,Warsaw #11,274,75
+534,Athens #11,228,64
+535,Stockholm #11,119,88
+536,Zurich #11,240,32
+537,Budapest #11,105,100
+538,Jakarta #11,78,41
+539,Doha #11,168,74
+540,Kuala Lumpur #11,80,48
+541,Rio de Janeiro #11,157,61
+542,Mexico City #11,287,28
+543,Vancouver #11,270,38
+544,Beijing #11,128,29
+545,Shanghai #11,60,50
+546,Osaka #11,73,91
+547,Manila #11,124,48
+548,Tel Aviv #11,212,62
+549,Edinburgh #11,159,54
+550,Helsinki #11,55,28
+551,New York #12,62,51
+552,London #12,282,55
+553,Paris #12,212,26
+554,Tokyo #12,291,99
+555,Dubai #12,130,43
+556,Singapore #12,155,68
+557,Los Angeles #12,173,82
+558,Rome #12,59,100
+559,Bangkok #12,64,87
+560,Barcelona #12,276,43
+561,Istanbul #12,58,71
+562,Amsterdam #12,88,66
+563,Berlin #12,298,89
+564,Sydney #12,79,57
+565,Hong Kong #12,294,43
+566,Toronto #12,79,90
+567,San Francisco #12,149,31
+568,Las Vegas #12,199,75
+569,Chicago #12,128,58
+570,Madrid #12,180,34
+571,Vienna #12,66,81
+572,Seoul #12,67,96
+573,Prague #12,274,55
+574,Milan #12,189,99
+575,Dublin #12,115,88
+576,Munich #12,266,91
+577,Copenhagen #12,261,75
+578,Brussels #12,289,40
+579,Lisbon #12,93,85
+580,Buenos Aires #12,110,53
+581,Cape Town #12,281,86
+582,Moscow #12,114,78
+583,Warsaw #12,253,20
+584,Athens #12,232,43
+585,Stockholm #12,101,76
+586,Zurich #12,291,55
+587,Budapest #12,274,65
+588,Jakarta #12,60,94
+589,Doha #12,142,93
+590,Kuala Lumpur #12,188,82
+591,Rio de Janeiro #12,83,86
+592,Mexico City #12,55,65
+593,Vancouver #12,61,97
+594,Beijing #12,158,45
+595,Shanghai #12,71,75
+596,Osaka #12,126,99
+597,Manila #12,259,33
+598,Tel Aviv #12,225,22
+599,Edinburgh #12,166,42
+600,Helsinki #12,134,32
+601,New York #13,168,63
+602,London #13,153,49
+603,Paris #13,78,70
+604,Tokyo #13,212,73
+605,Dubai #13,132,59
+606,Singapore #13,276,26
+607,Los Angeles #13,110,50
+608,Rome #13,274,48
+609,Bangkok #13,124,99
+610,Barcelona #13,131,61
+611,Istanbul #13,214,65
+612,Amsterdam #13,52,84
+613,Berlin #13,200,88
+614,Sydney #13,111,53
+615,Hong Kong #13,175,56
+616,Toronto #13,161,59
+617,San Francisco #13,234,30
+618,Las Vegas #13,104,54
+619,Chicago #13,248,76
+620,Madrid #13,295,47
+621,Vienna #13,104,76
+622,Seoul #13,279,75
+623,Prague #13,225,81
+624,Milan #13,86,25
+625,Dublin #13,121,36
+626,Munich #13,162,40
+627,Copenhagen #13,239,43
+628,Brussels #13,146,83
+629,Lisbon #13,252,92
+630,Buenos Aires #13,289,40
+631,Cape Town #13,295,25
+632,Moscow #13,256,87
+633,Warsaw #13,273,96
+634,Athens #13,280,86
+635,Stockholm #13,51,86
+636,Zurich #13,67,86
+637,Budapest #13,200,65
+638,Jakarta #13,88,52
+639,Doha #13,91,42
+640,Kuala Lumpur #13,258,30
+641,Rio de Janeiro #13,69,33
+642,Mexico City #13,144,96
+643,Vancouver #13,202,85
+644,Beijing #13,290,95
+645,Shanghai #13,264,88
+646,Osaka #13,90,99
+647,Manila #13,147,84
+648,Tel Aviv #13,97,32
+649,Edinburgh #13,283,72
+650,Helsinki #13,119,51
+651,New York #14,134,67
+652,London #14,181,97
+653,Paris #14,247,29
+654,Tokyo #14,81,79
+655,Dubai #14,256,87
+656,Singapore #14,154,94
+657,Los Angeles #14,257,94
+658,Rome #14,62,82
+659,Bangkok #14,104,30
+660,Barcelona #14,56,70
+661,Istanbul #14,141,60
+662,Amsterdam #14,132,83
+663,Berlin #14,263,89
+664,Sydney #14,273,30
+665,Hong Kong #14,173,27
+666,Toronto #14,186,67
+667,San Francisco #14,240,48
+668,Las Vegas #14,58,84
+669,Chicago #14,78,33
+670,Madrid #14,68,73
+671,Vienna #14,123,53
+672,Seoul #14,272,75
+673,Prague #14,250,95
+674,Milan #14,255,40
+675,Dublin #14,109,37
+676,Munich #14,242,59
+677,Copenhagen #14,91,57
+678,Brussels #14,80,79
+679,Lisbon #14,292,33
+680,Buenos Aires #14,143,76
+681,Cape Town #14,288,76
+682,Moscow #14,205,57
+683,Warsaw #14,269,41
+684,Athens #14,102,47
+685,Stockholm #14,224,81
+686,Zurich #14,299,26
+687,Budapest #14,115,76
+688,Jakarta #14,126,92
+689,Doha #14,140,55
+690,Kuala Lumpur #14,226,89
+691,Rio de Janeiro #14,64,21
+692,Mexico City #14,124,80
+693,Vancouver #14,61,29
+694,Beijing #14,172,35
+695,Shanghai #14,120,75
+696,Osaka #14,81,70
+697,Manila #14,224,60
+698,Tel Aviv #14,153,39
+699,Edinburgh #14,126,32
+700,Helsinki #14,164,88
+701,New York #15,153,33
+702,London #15,90,52
+703,Paris #15,78,93
+704,Tokyo #15,63,99
+705,Dubai #15,81,60
+706,Singapore #15,113,52
+707,Los Angeles #15,67,78
+708,Rome #15,144,48
+709,Bangkok #15,246,87
+710,Barcelona #15,250,94
+711,Istanbul #15,270,24
+712,Amsterdam #15,160,97
+713,Berlin #15,129,64
+714,Sydney #15,104,80
+715,Hong Kong #15,87,80
+716,Toronto #15,78,78
+717,San Francisco #15,212,80
+718,Las Vegas #15,119,64
+719,Chicago #15,114,51
+720,Madrid #15,58,53
+721,Vienna #15,153,36
+722,Seoul #15,214,36
+723,Prague #15,148,75
+724,Milan #15,118,92
+725,Dublin #15,74,50
+726,Munich #15,96,59
+727,Copenhagen #15,271,82
+728,Brussels #15,82,93
+729,Lisbon #15,238,39
+730,Buenos Aires #15,282,30
+731,Cape Town #15,140,36
+732,Moscow #15,174,98
+733,Warsaw #15,96,68
+734,Athens #15,66,32
+735,Stockholm #15,179,84
+736,Zurich #15,182,20
+737,Budapest #15,58,54
+738,Jakarta #15,184,48
+739,Doha #15,191,27
+740,Kuala Lumpur #15,97,36
+741,Rio de Janeiro #15,98,83
+742,Mexico City #15,183,90
+743,Vancouver #15,176,83
+744,Beijing #15,117,70
+745,Shanghai #15,261,96
+746,Osaka #15,138,34
+747,Manila #15,177,97
+748,Tel Aviv #15,77,80
+749,Edinburgh #15,113,69
+750,Helsinki #15,288,37
+751,New York #16,278,90
+752,London #16,133,21
+753,Paris #16,223,39
+754,Tokyo #16,214,54
+755,Dubai #16,177,56
+756,Singapore #16,166,27
+757,Los Angeles #16,193,98
+758,Rome #16,148,81
+759,Bangkok #16,206,85
+760,Barcelona #16,173,65
+761,Istanbul #16,101,67
+762,Amsterdam #16,281,60
+763,Berlin #16,97,23
+764,Sydney #16,84,75
+765,Hong Kong #16,168,96
+766,Toronto #16,176,61
+767,San Francisco #16,159,35
+768,Las Vegas #16,225,53
+769,Chicago #16,140,78
+770,Madrid #16,203,54
+771,Vienna #16,265,73
+772,Seoul #16,156,48
+773,Prague #16,204,34
+774,Milan #16,169,75
+775,Dublin #16,212,85
+776,Munich #16,291,62
+777,Copenhagen #16,290,93
+778,Brussels #16,290,40
+779,Lisbon #16,208,48
+780,Buenos Aires #16,148,77
+781,Cape Town #16,145,86
+782,Moscow #16,118,80
+783,Warsaw #16,71,37
+784,Athens #16,254,98
+785,Stockholm #16,294,91
+786,Zurich #16,124,56
+787,Budapest #16,273,86
+788,Jakarta #16,140,87
+789,Doha #16,177,33
+790,Kuala Lumpur #16,180,26
+791,Rio de Janeiro #16,275,90
+792,Mexico City #16,140,57
+793,Vancouver #16,66,93
+794,Beijing #16,276,67
+795,Shanghai #16,240,92
+796,Osaka #16,262,85
+797,Manila #16,274,42
+798,Tel Aviv #16,144,100
+799,Edinburgh #16,166,59
+800,Helsinki #16,254,74
+801,New York #17,238,77
+802,London #17,263,59
+803,Paris #17,93,80
+804,Tokyo #17,207,90
+805,Dubai #17,114,58
+806,Singapore #17,212,86
+807,Los Angeles #17,111,20
+808,Rome #17,255,45
+809,Bangkok #17,220,79
+810,Barcelona #17,167,85
+811,Istanbul #17,222,67
+812,Amsterdam #17,105,95
+813,Berlin #17,214,90
+814,Sydney #17,90,95
+815,Hong Kong #17,105,39
+816,Toronto #17,299,29
+817,San Francisco #17,74,20
+818,Las Vegas #17,187,50
+819,Chicago #17,165,50
+820,Madrid #17,50,25
+821,Vienna #17,281,95
+822,Seoul #17,268,90
+823,Prague #17,231,62
+824,Milan #17,215,39
+825,Dublin #17,54,96
+826,Munich #17,83,33
+827,Copenhagen #17,76,78
+828,Brussels #17,191,79
+829,Lisbon #17,115,61
+830,Buenos Aires #17,127,79
+831,Cape Town #17,132,87
+832,Moscow #17,144,35
+833,Warsaw #17,189,94
+834,Athens #17,116,47
+835,Stockholm #17,143,94
+836,Zurich #17,250,79
+837,Budapest #17,284,40
+838,Jakarta #17,147,21
+839,Doha #17,141,79
+840,Kuala Lumpur #17,78,22
+841,Rio de Janeiro #17,179,41
+842,Mexico City #17,183,100
+843,Vancouver #17,230,98
+844,Beijing #17,157,84
+845,Shanghai #17,86,38
+846,Osaka #17,123,77
+847,Manila #17,148,69
+848,Tel Aviv #17,67,74
+849,Edinburgh #17,213,40
+850,Helsinki #17,109,43
+851,New York #18,137,26
+852,London #18,283,79
+853,Paris #18,91,59
+854,Tokyo #18,80,91
+855,Dubai #18,214,32
+856,Singapore #18,208,86
+857,Los Angeles #18,132,79
+858,Rome #18,119,37
+859,Bangkok #18,174,93
+860,Barcelona #18,124,67
+861,Istanbul #18,239,34
+862,Amsterdam #18,74,44
+863,Berlin #18,202,69
+864,Sydney #18,162,95
+865,Hong Kong #18,118,83
+866,Toronto #18,294,73
+867,San Francisco #18,274,55
+868,Las Vegas #18,91,35
+869,Chicago #18,300,20
+870,Madrid #18,184,43
+871,Vienna #18,79,63
+872,Seoul #18,191,73
+873,Prague #18,151,66
+874,Milan #18,121,23
+875,Dublin #18,136,74
+876,Munich #18,63,22
+877,Copenhagen #18,156,76
+878,Brussels #18,136,52
+879,Lisbon #18,271,62
+880,Buenos Aires #18,245,27
+881,Cape Town #18,191,88
+882,Moscow #18,142,87
+883,Warsaw #18,118,89
+884,Athens #18,149,98
+885,Stockholm #18,253,89
+886,Zurich #18,95,74
+887,Budapest #18,82,64
+888,Jakarta #18,222,78
+889,Doha #18,106,91
+890,Kuala Lumpur #18,105,53
+891,Rio de Janeiro #18,292,37
+892,Mexico City #18,93,45
+893,Vancouver #18,201,50
+894,Beijing #18,118,40
+895,Shanghai #18,151,85
+896,Osaka #18,54,73
+897,Manila #18,79,57
+898,Tel Aviv #18,242,27
+899,Edinburgh #18,112,33
+900,Helsinki #18,244,80
+901,New York #19,119,36
+902,London #19,260,57
+903,Paris #19,248,84
+904,Tokyo #19,52,90
+905,Dubai #19,245,22
+906,Singapore #19,133,82
+907,Los Angeles #19,233,63
+908,Rome #19,300,45
+909,Bangkok #19,151,79
+910,Barcelona #19,149,82
+911,Istanbul #19,142,99
+912,Amsterdam #19,168,91
+913,Berlin #19,170,70
+914,Sydney #19,132,87
+915,Hong Kong #19,233,84
+916,Toronto #19,231,31
+917,San Francisco #19,186,54
+918,Las Vegas #19,281,96
+919,Chicago #19,107,56
+920,Madrid #19,54,36
+921,Vienna #19,193,71
+922,Seoul #19,166,26
+923,Prague #19,116,97
+924,Milan #19,258,96
+925,Dublin #19,188,33
+926,Munich #19,68,59
+927,Copenhagen #19,76,51
+928,Brussels #19,135,52
+929,Lisbon #19,271,36
+930,Buenos Aires #19,241,75
+931,Cape Town #19,167,40
+932,Moscow #19,61,40
+933,Warsaw #19,64,59
+934,Athens #19,297,83
+935,Stockholm #19,116,93
+936,Zurich #19,225,33
+937,Budapest #19,183,38
+938,Jakarta #19,231,41
+939,Doha #19,154,72
+940,Kuala Lumpur #19,170,49
+941,Rio de Janeiro #19,199,54
+942,Mexico City #19,252,48
+943,Vancouver #19,219,52
+944,Beijing #19,74,97
+945,Shanghai #19,155,59
+946,Osaka #19,213,56
+947,Manila #19,221,84
+948,Tel Aviv #19,296,27
+949,Edinburgh #19,250,90
+950,Helsinki #19,63,63
+951,New York #20,160,53
+952,London #20,263,51
+953,Paris #20,69,88
+954,Tokyo #20,167,100
+955,Dubai #20,117,99
+956,Singapore #20,220,73
+957,Los Angeles #20,242,98
+958,Rome #20,191,72
+959,Bangkok #20,299,70
+960,Barcelona #20,149,59
+961,Istanbul #20,205,52
+962,Amsterdam #20,89,60
+963,Berlin #20,221,65
+964,Sydney #20,237,81
+965,Hong Kong #20,168,85
+966,Toronto #20,242,85
+967,San Francisco #20,246,74
+968,Las Vegas #20,297,88
+969,Chicago #20,190,62
+970,Madrid #20,79,46
+971,Vienna #20,151,79
+972,Seoul #20,263,87
+973,Prague #20,136,66
+974,Milan #20,201,40
+975,Dublin #20,140,90
+976,Munich #20,133,97
+977,Copenhagen #20,111,41
+978,Brussels #20,145,36
+979,Lisbon #20,75,52
+980,Buenos Aires #20,88,86
+981,Cape Town #20,273,91
+982,Moscow #20,299,61
+983,Warsaw #20,229,100
+984,Athens #20,56,82
+985,Stockholm #20,272,31
+986,Zurich #20,149,74
+987,Budapest #20,138,78
+988,Jakarta #20,110,37
+989,Doha #20,169,82
+990,Kuala Lumpur #20,79,90
+991,Rio de Janeiro #20,266,55
+992,Mexico City #20,288,46
+993,Vancouver #20,222,51
+994,Beijing #20,289,79
+995,Shanghai #20,63,22
+996,Osaka #20,179,21
+997,Manila #20,268,77
+998,Tel Aviv #20,263,96
+999,Edinburgh #20,120,58
+1000,Helsinki #20,108,32
