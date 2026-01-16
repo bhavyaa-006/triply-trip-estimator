@@ -1,0 +1,20 @@
+{
+  "name": "triply-trip-estimator",
+  "version": "1.0.0",
+  "description": "Trip cost estimator app",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "cd frontend && npm install && npm run build",
+    "start": "node api/index.js"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}

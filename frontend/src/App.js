@@ -165,7 +165,7 @@ function Estimator() {
     setChatbotReply(""); // Reset chatbot reply
     setLoading(true);
     try {
-      const res = await fetch("https://triply-trip-estimator.onrender.com", {
+      const res = await fetch("/api/estimate", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(form),
@@ -176,7 +176,7 @@ function Estimator() {
       } else {
         setResult(data);
         // Call chatbot with a summary question about the trip
-        const chatRes = await fetch("http://localhost:5000/chat", {
+        const chatRes = await fetch("/api/chat", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
