@@ -1,78 +1,69 @@
-# ✈️ Trip Estimator App
+# 🌍 Triply — AI Trip Estimator & Planner
 
-## 📦 Setup
+Triply is an AI-powered travel planning assistant that helps users estimate trip costs, generate personalized itineraries, and make smarter travel decisions based on budget, destination, and duration.
 
-### Backend
-1. Navigate to `backend/`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the server: `python backend.py`
+---
 
-### Frontend
-1. Navigate to `frontend/`
-2. Install dependencies: `npm install`
-3. Run React app: `npm start`
+# ✨ Features
 
-## 🔗 Notes
-- Backend runs on `http://localhost:5000`
-- Frontend proxies API requests using `"proxy"` setting in `package.json`
+- 🧠 AI-generated personalized travel itineraries
+- 💰 Rough trip cost estimation
+- 📍 Destination-based recommendations
+- 📅 Trip duration planning
+- 👥 Multi-person travel calculations
+- 📊 Budget-aware suggestions
+- ⚡ Fast and responsive UI
 
-## 🚀 Vercel Deployment
+---
 
-### Prerequisites
-- A [Vercel](https://vercel.com) account (sign up with GitHub)
-- An [OpenRouter API key](https://openrouter.ai)
+# 🚀 Problem Statement
 
-### Steps to Deploy
+Planning trips is often:
+- Time-consuming
+- Hard to budget correctly
+- Difficult to personalize
+- Spread across multiple websites and tools
 
-1. **Clone and Push to GitHub** (if not already done):
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -m main
-   git remote add origin https://github.com/your-username/triply-trip-estimator
-   git push -u origin main
-   ```
+Triply solves this by combining planning + estimation + AI recommendations in one place.
 
-2. **Create `.env.local` file** with your OpenRouter API key:
-   ```
-   OPENROUTER_API_KEY=sk-or-v1-your-api-key-here
-   ```
+---
 
-3. **Deploy to Vercel**:
-   - Go to [Vercel Dashboard](https://vercel.com/dashboard)
-   - Click "New Project"
-   - Import your GitHub repository
-   - Vercel will automatically detect the configuration
-   - Add environment variables:
-     - Key: `OPENROUTER_API_KEY`
-     - Value: Your OpenRouter API key
-   - Click "Deploy"
+# 💡 How It Works
 
-4. **Access Your App**:
-   - Once deployed, Vercel will provide a URL like `https://triply-trip-estimator.vercel.app`
-   - Your app is now live!
+1. User enters:
+   - Departure location
+   - Destination
+   - Number of travelers
+   - Budget
+   - Trip duration
 
-### Project Structure for Vercel
+2. Triply processes:
+   - Estimated travel expenses
+   - Accommodation costs
+   - Daily expense approximation
+   - Personalized recommendations
 
-```
-/api
-  /estimate.js       → POST /api/estimate
-  /chat.js           → POST /api/chat
-/frontend            → React app (builds to /frontend/build)
-vercel.json          → Vercel configuration
-package.json         → Root dependencies
-.env.local           → Environment variables (not committed)
-```
+3. AI generates:
+   - Smart itinerary suggestions
+   - Budget-friendly planning insights
+   - Estimated total trip cost
 
-### Environment Variables
+---
 
-Set these in Vercel Dashboard → Settings → Environment Variables:
-- `OPENROUTER_API_KEY` - Your OpenRouter API key (required)
+# 🛠️ Tech Stack
 
-### Troubleshooting
+## Frontend
+- React.js
+- Tailwind CSS
+- JavaScript
 
-- **"Could not connect to backend"**: Check that environment variables are set in Vercel
-- **API key not found**: Verify `OPENROUTER_API_KEY` is in Vercel environment variables
-- **Build fails**: Check that `frontend/package.json` has all required dependencies
-- **CORS errors**: Already handled in serverless functions
+## Backend
+- Python
+- Flask
+
+## APIs & AI
+- LLM APIs
+- Travel & location-based APIs
+
+---
+
